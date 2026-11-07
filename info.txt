@@ -1,0 +1,5 @@
+name = Sunken Titanic
+author = AgeOfAlgorithms and Claude
+description = Needs the Underwater Exploration mod enabled (Global mods). The wreck of RMS Titanic, 60 m down: the bow driven into the mud and the crushed stern torn off beside it, rebuilt deck by deck from the 1911 builders' plans. Dive down the three shot lines from the surface platforms, refill your tank at the green air stations, and find the Grand Staircase shaft, the reception room, Scotland Road, the Turkish bath, the boilers and the engines. For multiplayer. With the Abyssipede mod something hunts you down there.
+tags = Map
+version = 2
