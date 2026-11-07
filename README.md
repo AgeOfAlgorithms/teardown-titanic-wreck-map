@@ -22,6 +22,10 @@ Turn on the **Abyssipede** global mod and something long hunts you through the d
 ## Multiplayer
 Made for diving with friends. The host turns on Underwater Exploration (and Abyssipede, if you dare).
 
+## Community
+
+Join the [Discord community](https://discord.gg/gNpRewdkxf) to post bug reports and suggestions.
+
 ## Install
 
 Subscribe on the [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3833158777), or clone this repository into
