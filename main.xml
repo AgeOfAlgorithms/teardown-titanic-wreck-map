@@ -291,366 +291,366 @@
 		</body>
 	</group>
 	<body tags="seabed">
-		<vox file="MOD/vox/floor_000.vox" pos="-73.60 0.10 -193.60"/>
-		<vox file="MOD/vox/floor_001.vox" pos="-73.60 0.30 -180.80"/>
-		<vox file="MOD/vox/floor_002.vox" pos="-73.60 0.30 -168.00"/>
-		<vox file="MOD/vox/floor_003.vox" pos="-73.60 0.30 -155.20"/>
-		<vox file="MOD/vox/floor_004.vox" pos="-73.60 0.40 -142.40"/>
-		<vox file="MOD/vox/floor_005.vox" pos="-73.60 0.40 -129.60"/>
-		<vox file="MOD/vox/floor_006.vox" pos="-73.60 0.30 -116.80"/>
-		<vox file="MOD/vox/floor_007.vox" pos="-73.60 0.10 -104.00"/>
-		<vox file="MOD/vox/floor_008.vox" pos="-73.60 -0.10 -91.20"/>
-		<vox file="MOD/vox/floor_009.vox" pos="-73.60 -0.10 -78.40"/>
-		<vox file="MOD/vox/floor_010.vox" pos="-73.60 0.00 -65.60"/>
-		<vox file="MOD/vox/floor_011.vox" pos="-73.60 0.00 -52.80"/>
-		<vox file="MOD/vox/floor_012.vox" pos="-73.60 -0.10 -40.00"/>
-		<vox file="MOD/vox/floor_013.vox" pos="-73.60 0.00 -27.20"/>
-		<vox file="MOD/vox/floor_014.vox" pos="-73.60 0.20 -14.40"/>
-		<vox file="MOD/vox/floor_015.vox" pos="-73.60 0.30 -1.60"/>
-		<vox file="MOD/vox/floor_016.vox" pos="-73.60 0.10 11.20"/>
-		<vox file="MOD/vox/floor_017.vox" pos="-73.60 -0.10 24.00"/>
-		<vox file="MOD/vox/floor_018.vox" pos="-73.60 -0.20 36.80"/>
-		<vox file="MOD/vox/floor_019.vox" pos="-73.60 -0.20 49.60"/>
-		<vox file="MOD/vox/floor_020.vox" pos="-73.60 0.00 62.40"/>
-		<vox file="MOD/vox/floor_021.vox" pos="-73.60 0.40 75.20"/>
-		<vox file="MOD/vox/floor_022.vox" pos="-73.60 0.30 88.00"/>
-		<vox file="MOD/vox/floor_023.vox" pos="-73.60 0.30 100.80"/>
-		<vox file="MOD/vox/floor_024.vox" pos="-73.60 0.30 113.60"/>
-		<vox file="MOD/vox/floor_025.vox" pos="-73.60 0.30 126.40"/>
-		<vox file="MOD/vox/floor_026.vox" pos="-73.60 0.20 139.20"/>
-		<vox file="MOD/vox/floor_027.vox" pos="-73.60 0.00 152.00"/>
-		<vox file="MOD/vox/floor_028.vox" pos="-73.60 0.00 164.80"/>
-		<vox file="MOD/vox/floor_029.vox" pos="-73.60 0.20 173.00"/>
-		<vox file="MOD/vox/floor_030.vox" pos="-60.80 0.00 -193.60"/>
-		<vox file="MOD/vox/floor_031.vox" pos="-60.80 0.10 -180.80"/>
-		<vox file="MOD/vox/floor_032.vox" pos="-60.80 0.20 -168.00"/>
-		<vox file="MOD/vox/floor_033.vox" pos="-60.80 0.10 -155.20"/>
-		<vox file="MOD/vox/floor_034.vox" pos="-60.80 0.10 -142.40"/>
-		<vox file="MOD/vox/floor_035.vox" pos="-60.80 0.10 -129.60"/>
-		<vox file="MOD/vox/floor_036.vox" pos="-60.80 0.10 -116.80"/>
-		<vox file="MOD/vox/floor_037.vox" pos="-60.80 0.10 -104.00"/>
-		<vox file="MOD/vox/floor_038.vox" pos="-60.80 0.00 -91.20"/>
-		<vox file="MOD/vox/floor_039.vox" pos="-60.80 0.00 -78.40"/>
-		<vox file="MOD/vox/floor_040.vox" pos="-60.80 0.10 -65.60"/>
-		<vox file="MOD/vox/floor_041.vox" pos="-60.80 0.10 -52.80"/>
-		<vox file="MOD/vox/floor_042.vox" pos="-60.80 0.10 -40.00"/>
-		<vox file="MOD/vox/floor_043.vox" pos="-60.80 0.30 -27.20"/>
-		<vox file="MOD/vox/floor_044.vox" pos="-60.80 0.20 -14.40"/>
-		<vox file="MOD/vox/floor_045.vox" pos="-60.80 0.30 -1.60"/>
-		<vox file="MOD/vox/floor_046.vox" pos="-60.80 0.10 11.20"/>
-		<vox file="MOD/vox/floor_047.vox" pos="-60.80 -0.10 24.00"/>
-		<vox file="MOD/vox/floor_048.vox" pos="-60.80 -0.20 36.80"/>
-		<vox file="MOD/vox/floor_049.vox" pos="-60.80 0.00 49.60"/>
-		<vox file="MOD/vox/floor_050.vox" pos="-60.80 0.00 62.40"/>
-		<vox file="MOD/vox/floor_051.vox" pos="-60.80 0.20 75.20"/>
-		<vox file="MOD/vox/floor_052.vox" pos="-60.80 0.30 88.00"/>
-		<vox file="MOD/vox/floor_053.vox" pos="-60.80 0.20 100.80"/>
-		<vox file="MOD/vox/floor_054.vox" pos="-60.80 0.10 113.60"/>
-		<vox file="MOD/vox/floor_055.vox" pos="-60.80 0.20 126.40"/>
-		<vox file="MOD/vox/floor_056.vox" pos="-60.80 0.10 139.20"/>
-		<vox file="MOD/vox/floor_057.vox" pos="-60.80 0.10 152.00"/>
-		<vox file="MOD/vox/floor_058.vox" pos="-60.80 -0.10 164.80"/>
-		<vox file="MOD/vox/floor_059.vox" pos="-60.80 0.10 173.00"/>
-		<vox file="MOD/vox/floor_060.vox" pos="-48.00 0.00 -193.60"/>
-		<vox file="MOD/vox/floor_061.vox" pos="-48.00 0.00 -180.80"/>
-		<vox file="MOD/vox/floor_062.vox" pos="-48.00 0.10 -168.00"/>
-		<vox file="MOD/vox/floor_063.vox" pos="-48.00 0.10 -155.20"/>
-		<vox file="MOD/vox/floor_064.vox" pos="-48.00 0.10 -142.40"/>
-		<vox file="MOD/vox/floor_065.vox" pos="-48.00 0.10 -129.60"/>
-		<vox file="MOD/vox/floor_066.vox" pos="-48.00 0.10 -116.80"/>
-		<vox file="MOD/vox/floor_067.vox" pos="-48.00 0.10 -104.00"/>
-		<vox file="MOD/vox/floor_068.vox" pos="-48.00 0.10 -91.20"/>
-		<vox file="MOD/vox/floor_069.vox" pos="-48.00 0.10 -78.40"/>
-		<vox file="MOD/vox/floor_070.vox" pos="-48.00 0.20 -65.60"/>
-		<vox file="MOD/vox/floor_071.vox" pos="-48.00 0.30 -52.80"/>
-		<vox file="MOD/vox/floor_072.vox" pos="-48.00 0.30 -40.00"/>
-		<vox file="MOD/vox/floor_073.vox" pos="-48.00 0.40 -27.20"/>
-		<vox file="MOD/vox/floor_074.vox" pos="-48.00 0.30 -14.40"/>
-		<vox file="MOD/vox/floor_075.vox" pos="-48.00 0.30 -1.60"/>
-		<vox file="MOD/vox/floor_076.vox" pos="-48.00 0.20 11.20"/>
-		<vox file="MOD/vox/floor_077.vox" pos="-48.00 0.20 24.00"/>
-		<vox file="MOD/vox/floor_078.vox" pos="-48.00 0.00 36.80"/>
-		<vox file="MOD/vox/floor_079.vox" pos="-48.00 0.20 49.60"/>
-		<vox file="MOD/vox/floor_080.vox" pos="-48.00 0.20 62.40"/>
-		<vox file="MOD/vox/floor_081.vox" pos="-48.00 0.30 75.20"/>
-		<vox file="MOD/vox/floor_082.vox" pos="-48.00 0.30 88.00"/>
-		<vox file="MOD/vox/floor_083.vox" pos="-48.00 0.10 100.80"/>
-		<vox file="MOD/vox/floor_084.vox" pos="-48.00 0.00 113.60"/>
-		<vox file="MOD/vox/floor_085.vox" pos="-48.00 -0.10 126.40"/>
-		<vox file="MOD/vox/floor_086.vox" pos="-48.00 0.00 139.20"/>
-		<vox file="MOD/vox/floor_087.vox" pos="-48.00 -0.20 152.00"/>
-		<vox file="MOD/vox/floor_088.vox" pos="-48.00 -0.20 164.80"/>
-		<vox file="MOD/vox/floor_089.vox" pos="-48.00 -0.10 173.00"/>
-		<vox file="MOD/vox/floor_090.vox" pos="-35.20 0.00 -193.60"/>
-		<vox file="MOD/vox/floor_091.vox" pos="-35.20 0.20 -180.80"/>
-		<vox file="MOD/vox/floor_092.vox" pos="-35.20 0.50 -168.00"/>
-		<vox file="MOD/vox/floor_093.vox" pos="-35.20 0.40 -155.20"/>
-		<vox file="MOD/vox/floor_094.vox" pos="-35.20 0.30 -142.40"/>
-		<vox file="MOD/vox/floor_095.vox" pos="-35.20 0.40 -129.60"/>
-		<vox file="MOD/vox/floor_096.vox" pos="-35.20 0.40 -116.80"/>
-		<vox file="MOD/vox/floor_097.vox" pos="-35.20 0.10 -104.00"/>
-		<vox file="MOD/vox/floor_098.vox" pos="-35.20 0.10 -91.20"/>
-		<vox file="MOD/vox/floor_099.vox" pos="-35.20 0.10 -78.40"/>
-		<vox file="MOD/vox/floor_100.vox" pos="-35.20 0.20 -65.60"/>
-		<vox file="MOD/vox/floor_101.vox" pos="-35.20 0.30 -52.80"/>
-		<vox file="MOD/vox/floor_102.vox" pos="-35.20 0.40 -40.00"/>
-		<vox file="MOD/vox/floor_103.vox" pos="-35.20 0.30 -27.20"/>
-		<vox file="MOD/vox/floor_104.vox" pos="-35.20 0.30 -14.40"/>
-		<vox file="MOD/vox/floor_105.vox" pos="-35.20 0.30 -1.60"/>
-		<vox file="MOD/vox/floor_106.vox" pos="-35.20 0.20 11.20"/>
-		<vox file="MOD/vox/floor_107.vox" pos="-35.20 0.20 24.00"/>
-		<vox file="MOD/vox/floor_108.vox" pos="-35.20 0.20 36.80"/>
-		<vox file="MOD/vox/floor_109.vox" pos="-35.20 0.20 49.60"/>
-		<vox file="MOD/vox/floor_110.vox" pos="-35.20 0.30 62.40"/>
-		<vox file="MOD/vox/floor_111.vox" pos="-35.20 0.30 75.20"/>
-		<vox file="MOD/vox/floor_112.vox" pos="-35.20 0.30 88.00"/>
-		<vox file="MOD/vox/floor_113.vox" pos="-35.20 0.10 100.80"/>
-		<vox file="MOD/vox/floor_114.vox" pos="-35.20 0.00 113.60"/>
-		<vox file="MOD/vox/floor_115.vox" pos="-35.20 -0.10 126.40"/>
-		<vox file="MOD/vox/floor_116.vox" pos="-35.20 -0.20 139.20"/>
-		<vox file="MOD/vox/floor_117.vox" pos="-35.20 -0.20 152.00"/>
-		<vox file="MOD/vox/floor_118.vox" pos="-35.20 -0.20 164.80"/>
-		<vox file="MOD/vox/floor_119.vox" pos="-35.20 -0.20 173.00"/>
-		<vox file="MOD/vox/floor_120.vox" pos="-22.40 -0.10 -193.60"/>
-		<vox file="MOD/vox/floor_121.vox" pos="-22.40 1.10 -180.80"/>
-		<vox file="MOD/vox/floor_122.vox" pos="-22.40 2.80 -168.00"/>
-		<vox file="MOD/vox/floor_123.vox" pos="-22.40 2.70 -155.20"/>
-		<vox file="MOD/vox/floor_124.vox" pos="-22.40 2.30 -142.40"/>
-		<vox file="MOD/vox/floor_125.vox" pos="-22.40 1.80 -129.60"/>
-		<vox file="MOD/vox/floor_126.vox" pos="-22.40 1.20 -116.80"/>
-		<vox file="MOD/vox/floor_127.vox" pos="-22.40 0.70 -104.00"/>
-		<vox file="MOD/vox/floor_128.vox" pos="-22.40 0.50 -91.20"/>
-		<vox file="MOD/vox/floor_129.vox" pos="-22.40 0.50 -78.40"/>
-		<vox file="MOD/vox/floor_130.vox" pos="-22.40 0.30 -65.60"/>
-		<vox file="MOD/vox/floor_131.vox" pos="-22.40 0.30 -52.80"/>
-		<vox file="MOD/vox/floor_132.vox" pos="-22.40 0.40 -40.00"/>
-		<vox file="MOD/vox/floor_133.vox" pos="-22.40 0.30 -27.20"/>
-		<vox file="MOD/vox/floor_134.vox" pos="-22.40 0.20 -14.40"/>
-		<vox file="MOD/vox/floor_135.vox" pos="-22.40 0.10 -1.60"/>
-		<vox file="MOD/vox/floor_136.vox" pos="-22.40 0.10 11.20"/>
-		<vox file="MOD/vox/floor_137.vox" pos="-22.40 0.00 24.00"/>
-		<vox file="MOD/vox/floor_138.vox" pos="-22.40 0.10 36.80"/>
-		<vox file="MOD/vox/floor_139.vox" pos="-22.40 0.10 49.60"/>
-		<vox file="MOD/vox/floor_140.vox" pos="-22.40 0.30 62.40"/>
-		<vox file="MOD/vox/floor_141.vox" pos="-22.40 0.30 75.20"/>
-		<vox file="MOD/vox/floor_142.vox" pos="-22.40 0.20 88.00"/>
-		<vox file="MOD/vox/floor_143.vox" pos="-22.40 0.10 100.80"/>
-		<vox file="MOD/vox/floor_144.vox" pos="-22.40 -0.10 113.60"/>
-		<vox file="MOD/vox/floor_145.vox" pos="-22.40 -0.10 126.40"/>
-		<vox file="MOD/vox/floor_146.vox" pos="-22.40 -0.10 139.20"/>
-		<vox file="MOD/vox/floor_147.vox" pos="-22.40 -0.20 152.00"/>
-		<vox file="MOD/vox/floor_148.vox" pos="-22.40 -0.20 164.80"/>
-		<vox file="MOD/vox/floor_149.vox" pos="-22.40 -0.10 173.00"/>
-		<vox file="MOD/vox/floor_150.vox" pos="-9.60 -0.10 -193.60"/>
-		<vox file="MOD/vox/floor_151.vox" pos="-9.60 1.80 -180.80"/>
-		<vox file="MOD/vox/floor_152.vox" pos="-9.60 5.10 -168.00"/>
-		<vox file="MOD/vox/floor_153.vox" pos="-9.60 4.70 -155.20"/>
-		<vox file="MOD/vox/floor_154.vox" pos="-9.60 3.60 -142.40"/>
-		<vox file="MOD/vox/floor_155.vox" pos="-9.60 2.70 -129.60"/>
-		<vox file="MOD/vox/floor_156.vox" pos="-9.60 1.80 -116.80"/>
-		<vox file="MOD/vox/floor_157.vox" pos="-9.60 1.10 -104.00"/>
-		<vox file="MOD/vox/floor_158.vox" pos="-9.60 0.70 -91.20"/>
-		<vox file="MOD/vox/floor_159.vox" pos="-9.60 0.50 -78.40"/>
-		<vox file="MOD/vox/floor_160.vox" pos="-9.60 0.30 -65.60"/>
-		<vox file="MOD/vox/floor_161.vox" pos="-9.60 0.20 -52.80"/>
-		<vox file="MOD/vox/floor_162.vox" pos="-9.60 0.20 -40.00"/>
-		<vox file="MOD/vox/floor_163.vox" pos="-9.60 0.30 -27.20"/>
-		<vox file="MOD/vox/floor_164.vox" pos="-9.60 0.20 -14.40"/>
-		<vox file="MOD/vox/floor_165.vox" pos="-9.60 0.10 -1.60"/>
-		<vox file="MOD/vox/floor_166.vox" pos="-9.60 0.10 11.20"/>
-		<vox file="MOD/vox/floor_167.vox" pos="-9.60 0.10 24.00"/>
-		<vox file="MOD/vox/floor_168.vox" pos="-9.60 0.10 36.80"/>
-		<vox file="MOD/vox/floor_169.vox" pos="-9.60 0.10 49.60"/>
-		<vox file="MOD/vox/floor_170.vox" pos="-9.60 0.00 62.40"/>
-		<vox file="MOD/vox/floor_171.vox" pos="-9.60 -0.10 75.20"/>
-		<vox file="MOD/vox/floor_172.vox" pos="-9.60 -0.10 88.00"/>
-		<vox file="MOD/vox/floor_173.vox" pos="-9.60 -0.20 100.80"/>
-		<vox file="MOD/vox/floor_174.vox" pos="-9.60 -0.20 113.60"/>
-		<vox file="MOD/vox/floor_175.vox" pos="-9.60 -0.10 126.40"/>
-		<vox file="MOD/vox/floor_176.vox" pos="-9.60 -0.10 139.20"/>
-		<vox file="MOD/vox/floor_177.vox" pos="-9.60 -0.10 152.00"/>
-		<vox file="MOD/vox/floor_178.vox" pos="-9.60 -0.10 164.80"/>
-		<vox file="MOD/vox/floor_179.vox" pos="-9.60 0.00 173.00"/>
-		<vox file="MOD/vox/floor_180.vox" pos="3.20 0.00 -193.60"/>
-		<vox file="MOD/vox/floor_181.vox" pos="3.20 1.80 -180.80"/>
-		<vox file="MOD/vox/floor_182.vox" pos="3.20 5.60 -168.00"/>
-		<vox file="MOD/vox/floor_183.vox" pos="3.20 5.00 -155.20"/>
-		<vox file="MOD/vox/floor_184.vox" pos="3.20 3.80 -142.40"/>
-		<vox file="MOD/vox/floor_185.vox" pos="3.20 2.60 -129.60"/>
-		<vox file="MOD/vox/floor_186.vox" pos="3.20 1.80 -116.80"/>
-		<vox file="MOD/vox/floor_187.vox" pos="3.20 1.20 -104.00"/>
-		<vox file="MOD/vox/floor_188.vox" pos="3.20 0.90 -91.20"/>
-		<vox file="MOD/vox/floor_189.vox" pos="3.20 0.60 -78.40"/>
-		<vox file="MOD/vox/floor_190.vox" pos="3.20 0.20 -65.60"/>
-		<vox file="MOD/vox/floor_191.vox" pos="3.20 0.20 -52.80"/>
-		<vox file="MOD/vox/floor_192.vox" pos="3.20 0.20 -40.00"/>
-		<vox file="MOD/vox/floor_193.vox" pos="3.20 0.20 -27.20"/>
-		<vox file="MOD/vox/floor_194.vox" pos="3.20 0.20 -14.40"/>
-		<vox file="MOD/vox/floor_195.vox" pos="3.20 0.20 -1.60"/>
-		<vox file="MOD/vox/floor_196.vox" pos="3.20 0.20 11.20"/>
-		<vox file="MOD/vox/floor_197.vox" pos="3.20 0.10 24.00"/>
-		<vox file="MOD/vox/floor_198.vox" pos="3.20 0.10 36.80"/>
-		<vox file="MOD/vox/floor_199.vox" pos="3.20 0.20 49.60"/>
-		<vox file="MOD/vox/floor_200.vox" pos="3.20 0.00 62.40"/>
-		<vox file="MOD/vox/floor_201.vox" pos="3.20 0.10 75.20"/>
-		<vox file="MOD/vox/floor_202.vox" pos="3.20 0.10 88.00"/>
-		<vox file="MOD/vox/floor_203.vox" pos="3.20 0.00 100.80"/>
-		<vox file="MOD/vox/floor_204.vox" pos="3.20 -0.20 113.60"/>
-		<vox file="MOD/vox/floor_205.vox" pos="3.20 0.00 126.40"/>
-		<vox file="MOD/vox/floor_206.vox" pos="3.20 -0.10 139.20"/>
-		<vox file="MOD/vox/floor_207.vox" pos="3.20 -0.10 152.00"/>
-		<vox file="MOD/vox/floor_208.vox" pos="3.20 0.00 164.80"/>
-		<vox file="MOD/vox/floor_209.vox" pos="3.20 0.00 173.00"/>
-		<vox file="MOD/vox/floor_210.vox" pos="16.00 -0.10 -193.60"/>
-		<vox file="MOD/vox/floor_211.vox" pos="16.00 1.60 -180.80"/>
-		<vox file="MOD/vox/floor_212.vox" pos="16.00 4.10 -168.00"/>
-		<vox file="MOD/vox/floor_213.vox" pos="16.00 3.80 -155.20"/>
-		<vox file="MOD/vox/floor_214.vox" pos="16.00 3.10 -142.40"/>
-		<vox file="MOD/vox/floor_215.vox" pos="16.00 2.20 -129.60"/>
-		<vox file="MOD/vox/floor_216.vox" pos="16.00 1.50 -116.80"/>
-		<vox file="MOD/vox/floor_217.vox" pos="16.00 0.90 -104.00"/>
-		<vox file="MOD/vox/floor_218.vox" pos="16.00 0.70 -91.20"/>
-		<vox file="MOD/vox/floor_219.vox" pos="16.00 0.30 -78.40"/>
-		<vox file="MOD/vox/floor_220.vox" pos="16.00 0.20 -65.60"/>
-		<vox file="MOD/vox/floor_221.vox" pos="16.00 0.10 -52.80"/>
-		<vox file="MOD/vox/floor_222.vox" pos="16.00 0.20 -40.00"/>
-		<vox file="MOD/vox/floor_223.vox" pos="16.00 0.20 -27.20"/>
-		<vox file="MOD/vox/floor_224.vox" pos="16.00 0.20 -14.40"/>
-		<vox file="MOD/vox/floor_225.vox" pos="16.00 0.30 -1.60"/>
-		<vox file="MOD/vox/floor_226.vox" pos="16.00 0.30 11.20"/>
-		<vox file="MOD/vox/floor_227.vox" pos="16.00 0.20 24.00"/>
-		<vox file="MOD/vox/floor_228.vox" pos="16.00 0.20 36.80"/>
-		<vox file="MOD/vox/floor_229.vox" pos="16.00 0.20 49.60"/>
-		<vox file="MOD/vox/floor_230.vox" pos="16.00 0.60 62.40"/>
-		<vox file="MOD/vox/floor_231.vox" pos="16.00 1.10 75.20"/>
-		<vox file="MOD/vox/floor_232.vox" pos="16.00 1.20 88.00"/>
-		<vox file="MOD/vox/floor_233.vox" pos="16.00 0.80 100.80"/>
-		<vox file="MOD/vox/floor_234.vox" pos="16.00 0.20 113.60"/>
-		<vox file="MOD/vox/floor_235.vox" pos="16.00 0.00 126.40"/>
-		<vox file="MOD/vox/floor_236.vox" pos="16.00 -0.10 139.20"/>
-		<vox file="MOD/vox/floor_237.vox" pos="16.00 0.00 152.00"/>
-		<vox file="MOD/vox/floor_238.vox" pos="16.00 0.00 164.80"/>
-		<vox file="MOD/vox/floor_239.vox" pos="16.00 0.00 173.00"/>
-		<vox file="MOD/vox/floor_240.vox" pos="28.80 -0.10 -193.60"/>
-		<vox file="MOD/vox/floor_241.vox" pos="28.80 0.40 -180.80"/>
-		<vox file="MOD/vox/floor_242.vox" pos="28.80 1.40 -168.00"/>
-		<vox file="MOD/vox/floor_243.vox" pos="28.80 1.20 -155.20"/>
-		<vox file="MOD/vox/floor_244.vox" pos="28.80 0.90 -142.40"/>
-		<vox file="MOD/vox/floor_245.vox" pos="28.80 1.00 -129.60"/>
-		<vox file="MOD/vox/floor_246.vox" pos="28.80 0.80 -116.80"/>
-		<vox file="MOD/vox/floor_247.vox" pos="28.80 0.40 -104.00"/>
-		<vox file="MOD/vox/floor_248.vox" pos="28.80 0.20 -91.20"/>
-		<vox file="MOD/vox/floor_249.vox" pos="28.80 0.00 -78.40"/>
-		<vox file="MOD/vox/floor_250.vox" pos="28.80 0.00 -65.60"/>
-		<vox file="MOD/vox/floor_251.vox" pos="28.80 0.00 -52.80"/>
-		<vox file="MOD/vox/floor_252.vox" pos="28.80 0.00 -40.00"/>
-		<vox file="MOD/vox/floor_253.vox" pos="28.80 0.00 -27.20"/>
-		<vox file="MOD/vox/floor_254.vox" pos="28.80 0.10 -14.40"/>
-		<vox file="MOD/vox/floor_255.vox" pos="28.80 0.30 -1.60"/>
-		<vox file="MOD/vox/floor_256.vox" pos="28.80 0.20 11.20"/>
-		<vox file="MOD/vox/floor_257.vox" pos="28.80 0.20 24.00"/>
-		<vox file="MOD/vox/floor_258.vox" pos="28.80 0.20 36.80"/>
-		<vox file="MOD/vox/floor_259.vox" pos="28.80 0.40 49.60"/>
-		<vox file="MOD/vox/floor_260.vox" pos="28.80 1.50 62.40"/>
-		<vox file="MOD/vox/floor_261.vox" pos="28.80 3.20 75.20"/>
-		<vox file="MOD/vox/floor_262.vox" pos="28.80 3.40 88.00"/>
-		<vox file="MOD/vox/floor_263.vox" pos="28.80 2.10 100.80"/>
-		<vox file="MOD/vox/floor_264.vox" pos="28.80 0.70 113.60"/>
-		<vox file="MOD/vox/floor_265.vox" pos="28.80 0.10 126.40"/>
-		<vox file="MOD/vox/floor_266.vox" pos="28.80 0.10 139.20"/>
-		<vox file="MOD/vox/floor_267.vox" pos="28.80 0.20 152.00"/>
-		<vox file="MOD/vox/floor_268.vox" pos="28.80 0.20 164.80"/>
-		<vox file="MOD/vox/floor_269.vox" pos="28.80 0.00 173.00"/>
-		<vox file="MOD/vox/floor_270.vox" pos="41.60 -0.10 -193.60"/>
-		<vox file="MOD/vox/floor_271.vox" pos="41.60 -0.20 -180.80"/>
-		<vox file="MOD/vox/floor_272.vox" pos="41.60 -0.20 -168.00"/>
-		<vox file="MOD/vox/floor_273.vox" pos="41.60 -0.10 -155.20"/>
-		<vox file="MOD/vox/floor_274.vox" pos="41.60 0.10 -142.40"/>
-		<vox file="MOD/vox/floor_275.vox" pos="41.60 0.30 -129.60"/>
-		<vox file="MOD/vox/floor_276.vox" pos="41.60 0.40 -116.80"/>
-		<vox file="MOD/vox/floor_277.vox" pos="41.60 0.20 -104.00"/>
-		<vox file="MOD/vox/floor_278.vox" pos="41.60 0.00 -91.20"/>
-		<vox file="MOD/vox/floor_279.vox" pos="41.60 -0.10 -78.40"/>
-		<vox file="MOD/vox/floor_280.vox" pos="41.60 0.00 -65.60"/>
-		<vox file="MOD/vox/floor_281.vox" pos="41.60 0.00 -52.80"/>
-		<vox file="MOD/vox/floor_282.vox" pos="41.60 -0.10 -40.00"/>
-		<vox file="MOD/vox/floor_283.vox" pos="41.60 0.00 -27.20"/>
-		<vox file="MOD/vox/floor_284.vox" pos="41.60 0.10 -14.40"/>
-		<vox file="MOD/vox/floor_285.vox" pos="41.60 0.20 -1.60"/>
-		<vox file="MOD/vox/floor_286.vox" pos="41.60 0.20 11.20"/>
-		<vox file="MOD/vox/floor_287.vox" pos="41.60 0.10 24.00"/>
-		<vox file="MOD/vox/floor_288.vox" pos="41.60 0.20 36.80"/>
-		<vox file="MOD/vox/floor_289.vox" pos="41.60 0.50 49.60"/>
-		<vox file="MOD/vox/floor_290.vox" pos="41.60 1.60 62.40"/>
-		<vox file="MOD/vox/floor_291.vox" pos="41.60 3.80 75.20"/>
-		<vox file="MOD/vox/floor_292.vox" pos="41.60 4.30 88.00"/>
-		<vox file="MOD/vox/floor_293.vox" pos="41.60 2.40 100.80"/>
-		<vox file="MOD/vox/floor_294.vox" pos="41.60 0.70 113.60"/>
-		<vox file="MOD/vox/floor_295.vox" pos="41.60 0.30 126.40"/>
-		<vox file="MOD/vox/floor_296.vox" pos="41.60 0.20 139.20"/>
-		<vox file="MOD/vox/floor_297.vox" pos="41.60 0.30 152.00"/>
-		<vox file="MOD/vox/floor_298.vox" pos="41.60 0.30 164.80"/>
-		<vox file="MOD/vox/floor_299.vox" pos="41.60 0.20 173.00"/>
-		<vox file="MOD/vox/floor_300.vox" pos="54.40 0.00 -193.60"/>
-		<vox file="MOD/vox/floor_301.vox" pos="54.40 0.10 -180.80"/>
-		<vox file="MOD/vox/floor_302.vox" pos="54.40 0.10 -168.00"/>
-		<vox file="MOD/vox/floor_303.vox" pos="54.40 -0.10 -155.20"/>
-		<vox file="MOD/vox/floor_304.vox" pos="54.40 0.10 -142.40"/>
-		<vox file="MOD/vox/floor_305.vox" pos="54.40 0.20 -129.60"/>
-		<vox file="MOD/vox/floor_306.vox" pos="54.40 0.30 -116.80"/>
-		<vox file="MOD/vox/floor_307.vox" pos="54.40 0.20 -104.00"/>
-		<vox file="MOD/vox/floor_308.vox" pos="54.40 0.00 -91.20"/>
-		<vox file="MOD/vox/floor_309.vox" pos="54.40 0.00 -78.40"/>
-		<vox file="MOD/vox/floor_310.vox" pos="54.40 -0.20 -65.60"/>
-		<vox file="MOD/vox/floor_311.vox" pos="54.40 -0.20 -52.80"/>
-		<vox file="MOD/vox/floor_312.vox" pos="54.40 -0.10 -40.00"/>
-		<vox file="MOD/vox/floor_313.vox" pos="54.40 0.20 -27.20"/>
-		<vox file="MOD/vox/floor_314.vox" pos="54.40 0.20 -14.40"/>
-		<vox file="MOD/vox/floor_315.vox" pos="54.40 0.20 -1.60"/>
-		<vox file="MOD/vox/floor_316.vox" pos="54.40 0.10 11.20"/>
-		<vox file="MOD/vox/floor_317.vox" pos="54.40 0.10 24.00"/>
-		<vox file="MOD/vox/floor_318.vox" pos="54.40 0.10 36.80"/>
-		<vox file="MOD/vox/floor_319.vox" pos="54.40 0.30 49.60"/>
-		<vox file="MOD/vox/floor_320.vox" pos="54.40 1.10 62.40"/>
-		<vox file="MOD/vox/floor_321.vox" pos="54.40 2.40 75.20"/>
-		<vox file="MOD/vox/floor_322.vox" pos="54.40 2.70 88.00"/>
-		<vox file="MOD/vox/floor_323.vox" pos="54.40 1.70 100.80"/>
-		<vox file="MOD/vox/floor_324.vox" pos="54.40 0.50 113.60"/>
-		<vox file="MOD/vox/floor_325.vox" pos="54.40 0.20 126.40"/>
-		<vox file="MOD/vox/floor_326.vox" pos="54.40 0.10 139.20"/>
-		<vox file="MOD/vox/floor_327.vox" pos="54.40 0.20 152.00"/>
-		<vox file="MOD/vox/floor_328.vox" pos="54.40 0.30 164.80"/>
-		<vox file="MOD/vox/floor_329.vox" pos="54.40 0.20 173.00"/>
-		<vox file="MOD/vox/floor_330.vox" pos="65.40 0.20 -193.60"/>
-		<vox file="MOD/vox/floor_331.vox" pos="65.40 0.20 -180.80"/>
-		<vox file="MOD/vox/floor_332.vox" pos="65.40 0.10 -168.00"/>
-		<vox file="MOD/vox/floor_333.vox" pos="65.40 0.10 -155.20"/>
-		<vox file="MOD/vox/floor_334.vox" pos="65.40 0.10 -142.40"/>
-		<vox file="MOD/vox/floor_335.vox" pos="65.40 0.10 -129.60"/>
-		<vox file="MOD/vox/floor_336.vox" pos="65.40 0.10 -116.80"/>
-		<vox file="MOD/vox/floor_337.vox" pos="65.40 0.10 -104.00"/>
-		<vox file="MOD/vox/floor_338.vox" pos="65.40 0.10 -91.20"/>
-		<vox file="MOD/vox/floor_339.vox" pos="65.40 0.00 -78.40"/>
-		<vox file="MOD/vox/floor_340.vox" pos="65.40 0.00 -65.60"/>
-		<vox file="MOD/vox/floor_341.vox" pos="65.40 -0.20 -52.80"/>
-		<vox file="MOD/vox/floor_342.vox" pos="65.40 -0.10 -40.00"/>
-		<vox file="MOD/vox/floor_343.vox" pos="65.40 0.00 -27.20"/>
-		<vox file="MOD/vox/floor_344.vox" pos="65.40 0.20 -14.40"/>
-		<vox file="MOD/vox/floor_345.vox" pos="65.40 0.10 -1.60"/>
-		<vox file="MOD/vox/floor_346.vox" pos="65.40 0.00 11.20"/>
-		<vox file="MOD/vox/floor_347.vox" pos="65.40 0.00 24.00"/>
-		<vox file="MOD/vox/floor_348.vox" pos="65.40 0.00 36.80"/>
-		<vox file="MOD/vox/floor_349.vox" pos="65.40 0.00 49.60"/>
-		<vox file="MOD/vox/floor_350.vox" pos="65.40 0.20 62.40"/>
-		<vox file="MOD/vox/floor_351.vox" pos="65.40 0.70 75.20"/>
-		<vox file="MOD/vox/floor_352.vox" pos="65.40 0.60 88.00"/>
-		<vox file="MOD/vox/floor_353.vox" pos="65.40 0.70 100.80"/>
-		<vox file="MOD/vox/floor_354.vox" pos="65.40 0.30 113.60"/>
-		<vox file="MOD/vox/floor_355.vox" pos="65.40 0.20 126.40"/>
-		<vox file="MOD/vox/floor_356.vox" pos="65.40 0.20 139.20"/>
-		<vox file="MOD/vox/floor_357.vox" pos="65.40 0.10 152.00"/>
-		<vox file="MOD/vox/floor_358.vox" pos="65.40 0.10 164.80"/>
-		<vox file="MOD/vox/floor_359.vox" pos="65.40 0.20 173.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_000.vox" pos="-73.60 0.10 -193.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_001.vox" pos="-73.60 0.30 -180.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_002.vox" pos="-73.60 0.30 -168.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_003.vox" pos="-73.60 0.30 -155.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_004.vox" pos="-73.60 0.40 -142.40"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_005.vox" pos="-73.60 0.40 -129.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_006.vox" pos="-73.60 0.30 -116.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_007.vox" pos="-73.60 0.10 -104.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_008.vox" pos="-73.60 -0.10 -91.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_009.vox" pos="-73.60 -0.10 -78.40"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_010.vox" pos="-73.60 0.00 -65.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_011.vox" pos="-73.60 0.00 -52.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_012.vox" pos="-73.60 -0.10 -40.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_013.vox" pos="-73.60 0.00 -27.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_014.vox" pos="-73.60 0.20 -14.40"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_015.vox" pos="-73.60 0.30 -1.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_016.vox" pos="-73.60 0.10 11.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_017.vox" pos="-73.60 -0.10 24.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_018.vox" pos="-73.60 -0.20 36.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_019.vox" pos="-73.60 -0.20 49.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_020.vox" pos="-73.60 0.00 62.40"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_021.vox" pos="-73.60 0.40 75.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_022.vox" pos="-73.60 0.30 88.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_023.vox" pos="-73.60 0.30 100.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_024.vox" pos="-73.60 0.30 113.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_025.vox" pos="-73.60 0.30 126.40"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_026.vox" pos="-73.60 0.20 139.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_027.vox" pos="-73.60 0.00 152.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_028.vox" pos="-73.60 0.00 164.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_029.vox" pos="-73.60 0.20 173.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_030.vox" pos="-60.80 0.00 -193.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_031.vox" pos="-60.80 0.10 -180.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_032.vox" pos="-60.80 0.20 -168.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_033.vox" pos="-60.80 0.10 -155.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_034.vox" pos="-60.80 0.10 -142.40"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_035.vox" pos="-60.80 0.10 -129.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_036.vox" pos="-60.80 0.10 -116.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_037.vox" pos="-60.80 0.10 -104.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_038.vox" pos="-60.80 0.00 -91.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_039.vox" pos="-60.80 0.00 -78.40"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_040.vox" pos="-60.80 0.10 -65.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_041.vox" pos="-60.80 0.10 -52.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_042.vox" pos="-60.80 0.10 -40.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_043.vox" pos="-60.80 0.30 -27.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_044.vox" pos="-60.80 0.20 -14.40"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_045.vox" pos="-60.80 0.30 -1.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_046.vox" pos="-60.80 0.10 11.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_047.vox" pos="-60.80 -0.10 24.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_048.vox" pos="-60.80 -0.20 36.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_049.vox" pos="-60.80 0.00 49.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_050.vox" pos="-60.80 0.00 62.40"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_051.vox" pos="-60.80 0.20 75.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_052.vox" pos="-60.80 0.30 88.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_053.vox" pos="-60.80 0.20 100.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_054.vox" pos="-60.80 0.10 113.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_055.vox" pos="-60.80 0.20 126.40"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_056.vox" pos="-60.80 0.10 139.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_057.vox" pos="-60.80 0.10 152.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_058.vox" pos="-60.80 -0.10 164.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_059.vox" pos="-60.80 0.10 173.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_060.vox" pos="-48.00 0.00 -193.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_061.vox" pos="-48.00 0.00 -180.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_062.vox" pos="-48.00 0.10 -168.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_063.vox" pos="-48.00 0.10 -155.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_064.vox" pos="-48.00 0.10 -142.40"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_065.vox" pos="-48.00 0.10 -129.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_066.vox" pos="-48.00 0.10 -116.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_067.vox" pos="-48.00 0.10 -104.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_068.vox" pos="-48.00 0.10 -91.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_069.vox" pos="-48.00 0.10 -78.40"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_070.vox" pos="-48.00 0.20 -65.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_071.vox" pos="-48.00 0.30 -52.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_072.vox" pos="-48.00 0.30 -40.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_073.vox" pos="-48.00 0.40 -27.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_074.vox" pos="-48.00 0.30 -14.40"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_075.vox" pos="-48.00 0.30 -1.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_076.vox" pos="-48.00 0.20 11.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_077.vox" pos="-48.00 0.20 24.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_078.vox" pos="-48.00 0.00 36.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_079.vox" pos="-48.00 0.20 49.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_080.vox" pos="-48.00 0.20 62.40"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_081.vox" pos="-48.00 0.30 75.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_082.vox" pos="-48.00 0.30 88.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_083.vox" pos="-48.00 0.10 100.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_084.vox" pos="-48.00 0.00 113.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_085.vox" pos="-48.00 -0.10 126.40"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_086.vox" pos="-48.00 0.00 139.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_087.vox" pos="-48.00 -0.20 152.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_088.vox" pos="-48.00 -0.20 164.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_089.vox" pos="-48.00 -0.10 173.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_090.vox" pos="-35.20 0.00 -193.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_091.vox" pos="-35.20 0.20 -180.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_092.vox" pos="-35.20 0.50 -168.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_093.vox" pos="-35.20 0.40 -155.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_094.vox" pos="-35.20 0.30 -142.40"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_095.vox" pos="-35.20 0.40 -129.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_096.vox" pos="-35.20 0.40 -116.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_097.vox" pos="-35.20 0.10 -104.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_098.vox" pos="-35.20 0.10 -91.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_099.vox" pos="-35.20 0.10 -78.40"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_100.vox" pos="-35.20 0.20 -65.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_101.vox" pos="-35.20 0.30 -52.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_102.vox" pos="-35.20 0.40 -40.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_103.vox" pos="-35.20 0.30 -27.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_104.vox" pos="-35.20 0.30 -14.40"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_105.vox" pos="-35.20 0.30 -1.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_106.vox" pos="-35.20 0.20 11.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_107.vox" pos="-35.20 0.20 24.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_108.vox" pos="-35.20 0.20 36.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_109.vox" pos="-35.20 0.20 49.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_110.vox" pos="-35.20 0.30 62.40"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_111.vox" pos="-35.20 0.30 75.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_112.vox" pos="-35.20 0.30 88.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_113.vox" pos="-35.20 0.10 100.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_114.vox" pos="-35.20 0.00 113.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_115.vox" pos="-35.20 -0.10 126.40"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_116.vox" pos="-35.20 -0.20 139.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_117.vox" pos="-35.20 -0.20 152.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_118.vox" pos="-35.20 -0.20 164.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_119.vox" pos="-35.20 -0.20 173.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_120.vox" pos="-22.40 -0.10 -193.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_121.vox" pos="-22.40 1.10 -180.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_122.vox" pos="-22.40 2.80 -168.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_123.vox" pos="-22.40 2.70 -155.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_124.vox" pos="-22.40 2.30 -142.40"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_125.vox" pos="-22.40 1.80 -129.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_126.vox" pos="-22.40 1.20 -116.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_127.vox" pos="-22.40 0.70 -104.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_128.vox" pos="-22.40 0.50 -91.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_129.vox" pos="-22.40 0.50 -78.40"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_130.vox" pos="-22.40 0.30 -65.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_131.vox" pos="-22.40 0.30 -52.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_132.vox" pos="-22.40 0.40 -40.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_133.vox" pos="-22.40 0.30 -27.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_134.vox" pos="-22.40 0.20 -14.40"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_135.vox" pos="-22.40 0.10 -1.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_136.vox" pos="-22.40 0.10 11.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_137.vox" pos="-22.40 0.00 24.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_138.vox" pos="-22.40 0.10 36.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_139.vox" pos="-22.40 0.10 49.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_140.vox" pos="-22.40 0.30 62.40"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_141.vox" pos="-22.40 0.30 75.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_142.vox" pos="-22.40 0.20 88.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_143.vox" pos="-22.40 0.10 100.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_144.vox" pos="-22.40 -0.10 113.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_145.vox" pos="-22.40 -0.10 126.40"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_146.vox" pos="-22.40 -0.10 139.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_147.vox" pos="-22.40 -0.20 152.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_148.vox" pos="-22.40 -0.20 164.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_149.vox" pos="-22.40 -0.10 173.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_150.vox" pos="-9.60 -0.10 -193.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_151.vox" pos="-9.60 1.80 -180.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_152.vox" pos="-9.60 5.10 -168.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_153.vox" pos="-9.60 4.70 -155.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_154.vox" pos="-9.60 3.60 -142.40"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_155.vox" pos="-9.60 2.70 -129.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_156.vox" pos="-9.60 1.80 -116.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_157.vox" pos="-9.60 1.10 -104.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_158.vox" pos="-9.60 0.70 -91.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_159.vox" pos="-9.60 0.50 -78.40"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_160.vox" pos="-9.60 0.30 -65.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_161.vox" pos="-9.60 0.20 -52.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_162.vox" pos="-9.60 0.20 -40.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_163.vox" pos="-9.60 0.30 -27.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_164.vox" pos="-9.60 0.20 -14.40"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_165.vox" pos="-9.60 0.10 -1.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_166.vox" pos="-9.60 0.10 11.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_167.vox" pos="-9.60 0.10 24.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_168.vox" pos="-9.60 0.10 36.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_169.vox" pos="-9.60 0.10 49.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_170.vox" pos="-9.60 0.00 62.40"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_171.vox" pos="-9.60 -0.10 75.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_172.vox" pos="-9.60 -0.10 88.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_173.vox" pos="-9.60 -0.20 100.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_174.vox" pos="-9.60 -0.20 113.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_175.vox" pos="-9.60 -0.10 126.40"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_176.vox" pos="-9.60 -0.10 139.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_177.vox" pos="-9.60 -0.10 152.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_178.vox" pos="-9.60 -0.10 164.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_179.vox" pos="-9.60 0.00 173.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_180.vox" pos="3.20 0.00 -193.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_181.vox" pos="3.20 1.80 -180.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_182.vox" pos="3.20 5.60 -168.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_183.vox" pos="3.20 5.00 -155.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_184.vox" pos="3.20 3.80 -142.40"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_185.vox" pos="3.20 2.60 -129.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_186.vox" pos="3.20 1.80 -116.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_187.vox" pos="3.20 1.20 -104.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_188.vox" pos="3.20 0.90 -91.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_189.vox" pos="3.20 0.60 -78.40"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_190.vox" pos="3.20 0.20 -65.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_191.vox" pos="3.20 0.20 -52.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_192.vox" pos="3.20 0.20 -40.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_193.vox" pos="3.20 0.20 -27.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_194.vox" pos="3.20 0.20 -14.40"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_195.vox" pos="3.20 0.20 -1.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_196.vox" pos="3.20 0.20 11.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_197.vox" pos="3.20 0.10 24.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_198.vox" pos="3.20 0.10 36.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_199.vox" pos="3.20 0.20 49.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_200.vox" pos="3.20 0.00 62.40"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_201.vox" pos="3.20 0.10 75.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_202.vox" pos="3.20 0.10 88.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_203.vox" pos="3.20 0.00 100.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_204.vox" pos="3.20 -0.20 113.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_205.vox" pos="3.20 0.00 126.40"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_206.vox" pos="3.20 -0.10 139.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_207.vox" pos="3.20 -0.10 152.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_208.vox" pos="3.20 0.00 164.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_209.vox" pos="3.20 0.00 173.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_210.vox" pos="16.00 -0.10 -193.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_211.vox" pos="16.00 1.60 -180.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_212.vox" pos="16.00 4.10 -168.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_213.vox" pos="16.00 3.80 -155.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_214.vox" pos="16.00 3.10 -142.40"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_215.vox" pos="16.00 2.20 -129.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_216.vox" pos="16.00 1.50 -116.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_217.vox" pos="16.00 0.90 -104.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_218.vox" pos="16.00 0.70 -91.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_219.vox" pos="16.00 0.30 -78.40"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_220.vox" pos="16.00 0.20 -65.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_221.vox" pos="16.00 0.10 -52.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_222.vox" pos="16.00 0.20 -40.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_223.vox" pos="16.00 0.20 -27.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_224.vox" pos="16.00 0.20 -14.40"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_225.vox" pos="16.00 0.30 -1.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_226.vox" pos="16.00 0.30 11.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_227.vox" pos="16.00 0.20 24.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_228.vox" pos="16.00 0.20 36.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_229.vox" pos="16.00 0.20 49.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_230.vox" pos="16.00 0.60 62.40"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_231.vox" pos="16.00 1.10 75.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_232.vox" pos="16.00 1.20 88.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_233.vox" pos="16.00 0.80 100.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_234.vox" pos="16.00 0.20 113.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_235.vox" pos="16.00 0.00 126.40"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_236.vox" pos="16.00 -0.10 139.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_237.vox" pos="16.00 0.00 152.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_238.vox" pos="16.00 0.00 164.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_239.vox" pos="16.00 0.00 173.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_240.vox" pos="28.80 -0.10 -193.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_241.vox" pos="28.80 0.40 -180.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_242.vox" pos="28.80 1.40 -168.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_243.vox" pos="28.80 1.20 -155.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_244.vox" pos="28.80 0.90 -142.40"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_245.vox" pos="28.80 1.00 -129.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_246.vox" pos="28.80 0.80 -116.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_247.vox" pos="28.80 0.40 -104.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_248.vox" pos="28.80 0.20 -91.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_249.vox" pos="28.80 0.00 -78.40"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_250.vox" pos="28.80 0.00 -65.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_251.vox" pos="28.80 0.00 -52.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_252.vox" pos="28.80 0.00 -40.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_253.vox" pos="28.80 0.00 -27.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_254.vox" pos="28.80 0.10 -14.40"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_255.vox" pos="28.80 0.30 -1.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_256.vox" pos="28.80 0.20 11.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_257.vox" pos="28.80 0.20 24.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_258.vox" pos="28.80 0.20 36.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_259.vox" pos="28.80 0.40 49.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_260.vox" pos="28.80 1.50 62.40"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_261.vox" pos="28.80 3.20 75.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_262.vox" pos="28.80 3.40 88.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_263.vox" pos="28.80 2.10 100.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_264.vox" pos="28.80 0.70 113.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_265.vox" pos="28.80 0.10 126.40"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_266.vox" pos="28.80 0.10 139.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_267.vox" pos="28.80 0.20 152.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_268.vox" pos="28.80 0.20 164.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_269.vox" pos="28.80 0.00 173.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_270.vox" pos="41.60 -0.10 -193.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_271.vox" pos="41.60 -0.20 -180.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_272.vox" pos="41.60 -0.20 -168.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_273.vox" pos="41.60 -0.10 -155.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_274.vox" pos="41.60 0.10 -142.40"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_275.vox" pos="41.60 0.30 -129.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_276.vox" pos="41.60 0.40 -116.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_277.vox" pos="41.60 0.20 -104.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_278.vox" pos="41.60 0.00 -91.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_279.vox" pos="41.60 -0.10 -78.40"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_280.vox" pos="41.60 0.00 -65.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_281.vox" pos="41.60 0.00 -52.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_282.vox" pos="41.60 -0.10 -40.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_283.vox" pos="41.60 0.00 -27.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_284.vox" pos="41.60 0.10 -14.40"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_285.vox" pos="41.60 0.20 -1.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_286.vox" pos="41.60 0.20 11.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_287.vox" pos="41.60 0.10 24.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_288.vox" pos="41.60 0.20 36.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_289.vox" pos="41.60 0.50 49.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_290.vox" pos="41.60 1.60 62.40"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_291.vox" pos="41.60 3.80 75.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_292.vox" pos="41.60 4.30 88.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_293.vox" pos="41.60 2.40 100.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_294.vox" pos="41.60 0.70 113.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_295.vox" pos="41.60 0.30 126.40"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_296.vox" pos="41.60 0.20 139.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_297.vox" pos="41.60 0.30 152.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_298.vox" pos="41.60 0.30 164.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_299.vox" pos="41.60 0.20 173.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_300.vox" pos="54.40 0.00 -193.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_301.vox" pos="54.40 0.10 -180.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_302.vox" pos="54.40 0.10 -168.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_303.vox" pos="54.40 -0.10 -155.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_304.vox" pos="54.40 0.10 -142.40"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_305.vox" pos="54.40 0.20 -129.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_306.vox" pos="54.40 0.30 -116.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_307.vox" pos="54.40 0.20 -104.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_308.vox" pos="54.40 0.00 -91.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_309.vox" pos="54.40 0.00 -78.40"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_310.vox" pos="54.40 -0.20 -65.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_311.vox" pos="54.40 -0.20 -52.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_312.vox" pos="54.40 -0.10 -40.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_313.vox" pos="54.40 0.20 -27.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_314.vox" pos="54.40 0.20 -14.40"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_315.vox" pos="54.40 0.20 -1.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_316.vox" pos="54.40 0.10 11.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_317.vox" pos="54.40 0.10 24.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_318.vox" pos="54.40 0.10 36.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_319.vox" pos="54.40 0.30 49.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_320.vox" pos="54.40 1.10 62.40"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_321.vox" pos="54.40 2.40 75.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_322.vox" pos="54.40 2.70 88.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_323.vox" pos="54.40 1.70 100.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_324.vox" pos="54.40 0.50 113.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_325.vox" pos="54.40 0.20 126.40"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_326.vox" pos="54.40 0.10 139.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_327.vox" pos="54.40 0.20 152.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_328.vox" pos="54.40 0.30 164.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_329.vox" pos="54.40 0.20 173.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_330.vox" pos="65.40 0.20 -193.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_331.vox" pos="65.40 0.20 -180.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_332.vox" pos="65.40 0.10 -168.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_333.vox" pos="65.40 0.10 -155.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_334.vox" pos="65.40 0.10 -142.40"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_335.vox" pos="65.40 0.10 -129.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_336.vox" pos="65.40 0.10 -116.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_337.vox" pos="65.40 0.10 -104.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_338.vox" pos="65.40 0.10 -91.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_339.vox" pos="65.40 0.00 -78.40"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_340.vox" pos="65.40 0.00 -65.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_341.vox" pos="65.40 -0.20 -52.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_342.vox" pos="65.40 -0.10 -40.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_343.vox" pos="65.40 0.00 -27.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_344.vox" pos="65.40 0.20 -14.40"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_345.vox" pos="65.40 0.10 -1.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_346.vox" pos="65.40 0.00 11.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_347.vox" pos="65.40 0.00 24.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_348.vox" pos="65.40 0.00 36.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_349.vox" pos="65.40 0.00 49.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_350.vox" pos="65.40 0.20 62.40"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_351.vox" pos="65.40 0.70 75.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_352.vox" pos="65.40 0.60 88.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_353.vox" pos="65.40 0.70 100.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_354.vox" pos="65.40 0.30 113.60"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_355.vox" pos="65.40 0.20 126.40"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_356.vox" pos="65.40 0.20 139.20"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_357.vox" pos="65.40 0.10 152.00"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_358.vox" pos="65.40 0.10 164.80"/>
+		<vox tags="unbreakable" file="MOD/vox/floor_359.vox" pos="65.40 0.20 173.00"/>
 	</body>
 	<body tags="debris">
 		<vox file="MOD/vox/debris_boiler0.vox" pos="-22.19 1.55 52.70" rot="0 220.0 0"/>

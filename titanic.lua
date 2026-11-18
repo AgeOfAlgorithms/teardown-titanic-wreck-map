@@ -13,8 +13,9 @@ HARPOON_SPEARS = 6   -- every diver carries the harpoon (Dive's), this many spea
 function server.init()
 	-- drowning takes a while once the tank is empty, so a diver who runs out still has a moment to reach a station
 	SetFloat("dive.drown.time", 8)
-	-- a bigger tank on this map: 2 minutes (the user asked for twice Dive's old 60 s; Dive's default is now 45)
-	SetFloat("dive.air.time", 120)
+	-- 1 minute of air, 3.5 with the diver gear (Dive's; the user, 2026-11-08: was 2 minutes here). Set here too, so a host
+	-- on an older Dive (45 s) gets the same
+	SetFloat("dive.air.time", 60)
 	-- the wreck lies 30-60 m down, where Dive's normal darkening leaves only the flashlight: half as strong here
 	SetFloat("dive.look", 0.5, true)
 	-- the pause menu's Spawn button, for the host only (the user's call): the game shows it when the level turns
